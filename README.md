@@ -4,4 +4,4 @@
 
 2. deploy on your repository
 
-3. follow steps to deploy into streamlit cloud
+3. follow steps to deploy into streamlit cloud https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
