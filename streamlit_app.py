@@ -3,7 +3,7 @@ import plotly_express as px
 import pandas as pd
 
 
-.
+
 st.set_page_config(page_title='DA-Demo Employee Dashboard',
                    page_icon=":desktop_computer:", #https://www.webfx.com/tools/emoji-cheat-sheet/
                    layout="wide")
