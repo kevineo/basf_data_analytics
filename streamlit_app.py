@@ -15,7 +15,7 @@ df = pd.read_excel(
     io='sample_data/Employee Sample Data.xlsx',
     engine='openpyxl',
     sheet_name='Data'
-).
+)
 
 # print(df)
 
