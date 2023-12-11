@@ -4,7 +4,7 @@ import pandas as pd
 
 
 
-st.set_page_config(page_title='DA-Demo Employee Dashboard',
+st.set_page_config(page_title='DA Club-Demo Employee Dashboard',
                    page_icon=":desktop_computer:", #https://www.webfx.com/tools/emoji-cheat-sheet/
                    layout="wide")
 
@@ -77,6 +77,7 @@ with right_column:
     st.subheader("Average Employee Age:")
     st.subheader(f"{avg_age}")
 
+# demo app
 
 # bar charts
 group_by_city = (
